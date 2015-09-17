@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">piCar</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="strBackWard">后退</string>
+    <string name="strTurnLeft">左转</string>
+    <string name="strStop">停止</string>
+    <string name="strForWard">前进</string>
+    <string name="strTurnRight">右转</string>
+
+    <string name="reboot">重启</string>
+    <string name="shutdown">关机</string>
+    <string name="leftFront">左前</string>
+    <string name="leftBack">左后</string>
+    <string name="rightFront">右前</string>
+    <string name="rightBack">右后</string>
+    <string name="info">Infomation</string>
+
+</resources>
